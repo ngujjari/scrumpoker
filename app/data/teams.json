@@ -1,0 +1,89 @@
+{
+  "teams": [
+    {
+      "id": "1",
+      "name": "Alpha Team",
+      "members": [
+        {
+          "id": "101",
+          "name": "John Smith",
+          "isAdmin": true
+        },
+        {
+          "id": "102",
+          "name": "Sarah Johnson",
+          "isAdmin": false
+        },
+        {
+          "id": "103",
+          "name": "Mike Brown",
+          "isAdmin": false
+        },
+        {
+          "id": "1731523806510",
+          "name": "Naresh",
+          "isAdmin": false
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Beta Squad",
+      "members": [
+        {
+          "id": "201",
+          "name": "Emily Davis",
+          "isAdmin": true
+        },
+        {
+          "id": "202",
+          "name": "David Wilson",
+          "isAdmin": false
+        },
+        {
+          "id": "203",
+          "name": "Lisa Anderson",
+          "isAdmin": false
+        },
+        {
+          "id": "204",
+          "name": "Tom Martinez",
+          "isAdmin": false
+        }
+      ]
+    },
+    {
+      "id": "1731524262104",
+      "name": "Hanover",
+      "members": [
+        {
+          "id": "1731524270261",
+          "name": "Naresh",
+          "isAdmin": true
+        },
+        {
+          "id": "1731524293099",
+          "name": "Matt",
+          "isAdmin": false
+        }
+      ]
+    }
+  ],
+  "storyPoints": {
+    "revealed": true,
+    "points": [
+      {
+        "teamId": "1731524262104",
+        "userId": "1731524293099",
+        "points": 3,
+        "timestamp": 1731729010006
+      },
+      {
+        "teamId": "1731524262104",
+        "userId": "1731524270261",
+        "points": 13,
+        "timestamp": 1731729041338
+      }
+    ]
+  }
+}
